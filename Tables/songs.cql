@@ -5,5 +5,6 @@
     duration int,
     genres text,
     title text,
+    rating decimal,
     year int
 );
